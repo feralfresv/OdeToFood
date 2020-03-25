@@ -54,10 +54,12 @@ namespace OdeToFood.Pages.Restaurants
             }
             if (Restaurant.Id > 0)
             {
+                TempData["Message"] = "Restaurant Update!";
                 restaurantData.Update(Restaurant);
             }
             else
             {
+                TempData["Message"] = "Restaurant Add!";
                 restaurantData.Add(Restaurant);
             }
             restaurantData.Commit();

@@ -13,6 +13,8 @@ namespace OdeToFood.Pages.Restaurants
     {
         private readonly IRestaurantData restaurantData;
 
+        [TempData]
+        public string Message { get; set; }
         public Core.Restaurant Restaurants { get; set; }
 
         public DetailModel(IRestaurantData restaurantData)
