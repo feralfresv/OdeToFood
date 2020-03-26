@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "3602eacc1bb55de133d4a6d5ace98f38863c63a8"
+    "signature": "f5c7f129f53b5244bf34131319cb5e3bb35e67c6"
   },
   "compilationOptions": {
     "defines": [
@@ -29,6 +29,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "2.1.4",
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.9",
+          "OdeToCode.UseNodeModules": "1.0.6",
           "OdeToFood.Data": "1.0.0"
         },
         "runtime": {
@@ -460,6 +461,23 @@
         },
         "compile": {
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
+        }
+      },
+      "OdeToCode.UseNodeModules/1.0.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.StaticFiles": "2.1.1",
+          "Microsoft.Extensions.FileProviders.Physical": "2.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OdeToCode.UseNodeModules.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/OdeToCode.UseNodeModules.dll": {}
         }
       },
       "Remotion.Linq/2.2.0": {
@@ -3702,6 +3720,13 @@
       "sha512": "sha512-qbXaB76XYUVLocLBs8Z9TS/ERGK2wm797feO+0JEPFvT7o7MRadOR77mqaSD4J1k8G+DlZQyq+MlkCuxrkr3ag==",
       "path": "nuget.frameworks/4.7.0",
       "hashPath": "nuget.frameworks.4.7.0.nupkg.sha512"
+    },
+    "OdeToCode.UseNodeModules/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mE838R7RdMaQ3csLrWMCeeG8UtL5jdfEFlYjRTit6EfOTB17sLoV/tmNdAXl59ht0Rcb+9m3t9rqyC7gVEz21A==",
+      "path": "odetocode.usenodemodules/1.0.6",
+      "hashPath": "odetocode.usenodemodules.1.0.6.nupkg.sha512"
     },
     "Remotion.Linq/2.2.0": {
       "type": "package",
