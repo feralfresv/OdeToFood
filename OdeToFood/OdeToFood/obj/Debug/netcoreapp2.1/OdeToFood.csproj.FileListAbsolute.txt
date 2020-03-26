@@ -38,3 +38,11 @@ C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.Views.pdb
 C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
 C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Delete.g.cshtml.cs
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\_Summary.g.cshtml.cs
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\Components\RestaurantCount\Default.g.cshtml.cs
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Create.g.cshtml.cs
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Delete.g.cshtml.cs
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Details.g.cshtml.cs
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Edit.g.cshtml.cs
+C:\dev\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\R2\Index.g.cshtml.cs
